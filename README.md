@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Javascript**
 
-- 👨‍💻 All of my projects are available at [https://stellar-dango-dc6167.netlify.app/](https://stellar-dango-dc6167.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://stellar-dango-dc6167.netlify.app/](https://glistening-cheesecake-5da449.netlify.app/)
 
 - 💬 Ask me about **HTML CSS**
 
